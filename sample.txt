@@ -2,3 +2,4 @@ sample.txt
 add sample
 add sample2
 commit sample3
+pull sample3
