@@ -1,3 +1,4 @@
 sample.txt
 add sample
 add sample2
+pull sample3
