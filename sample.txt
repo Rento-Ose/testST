@@ -1,3 +1,4 @@
 sample.txt
 add sample
 add sample2
+commit sample3
